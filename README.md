@@ -26,6 +26,6 @@ Dưới đây là một số dự án mà tôi đã và đang thực hiện:
 
 - **Email**: khachuy4848@gmail.com
 - **LinkedIn**: [Nguyễn Khắc Huy](https://www.linkedin.com/in/nguyenkhachuy)
-- **GitHub**: [Nguyễn Khắc Huy](https://github.com/nguyenkhachuy)
+- **GitHub**: [Nguyễn Khắc Huy](https://github.com/nkhachuy)
 
 Cảm ơn bạn đã ghé thăm hồ sơ của tôi!
