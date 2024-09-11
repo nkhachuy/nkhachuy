@@ -4,10 +4,10 @@
 
 ## 🛠 Kỹ năng
 
-- **Ngôn ngữ lập trình**: JavaScript, Python, PHP
-- **Công nghệ**: Node.js, React, Laravel
-- **Cơ sở dữ liệu**: MongoDB, MySQL, SQLite
-- **Công cụ**: Git, Docker, Postman
+- **Ngôn ngữ lập trình**: JavaScript, Python, PHP, HTML, CSS, C, C++, C#, Java
+- **Công nghệ**: Node.js, React, Laravel, .NET, Bootstrap
+- **Cơ sở dữ liệu**: MongoDB, MySQL, SQLite, Microsoft SQL Server, Cassandra
+- **Công cụ**: Git, Microsoft Visual Studio, Microsoft Visual Studio Code, Elipse
 
 ## 🔭 Dự án
 
@@ -24,7 +24,7 @@ Dưới đây là một số dự án mà tôi đã và đang thực hiện:
 
 ## 📫 Liên hệ
 
-- **Email**: nguyenkhachuy@example.com
+- **Email**: khachuy4848@gmail.com
 - **LinkedIn**: [Nguyễn Khắc Huy](https://www.linkedin.com/in/nguyenkhachuy)
 - **GitHub**: [Nguyễn Khắc Huy](https://github.com/nguyenkhachuy)
 
