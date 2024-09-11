@@ -13,8 +13,8 @@
 
 Dưới đây là một số dự án mà tôi đã và đang thực hiện:
 
-- **[Dự án A](#)**: Mô tả dự án và những gì tôi đã học được.
-- **[Dự án B](#)**: Mô tả dự án và cách tôi đã áp dụng kiến thức vào thực tiễn.
+- **[Website quản lý nhà hàng](#)**: Mô tả dự án và những gì tôi đã học được.
+- **[Website bán điện thoại di động](#)**: Mô tả dự án và cách tôi đã áp dụng kiến thức vào thực tiễn.
 
 ## 🎓 Học vấn
 
