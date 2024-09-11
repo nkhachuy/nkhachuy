@@ -4,7 +4,7 @@
 
 ## 🛠 Kỹ năng
 
-- **Ngôn ngữ lập trình**: JavaScript, Python, PHP, HTML, CSS, C, C++, C#, Java
+- **Ngôn ngữ lập trình**: HTML, CSS, JavaScript, PHP, C, C++, C#, Java
 - **Công nghệ**: Node.js, React, Laravel, .NET, Bootstrap
 - **Cơ sở dữ liệu**: MongoDB, MySQL, SQLite, Microsoft SQL Server, Cassandra
 - **Công cụ**: Git, Microsoft Visual Studio, Microsoft Visual Studio Code, Elipse
@@ -27,7 +27,6 @@ Hệ thống hỗ trợ cả khách hàng và nhà hàng trong việc tối ưu 
 ## 📫 Liên hệ
 
 - **Email**: khachuy4848@gmail.com
-- **LinkedIn**: [Nguyễn Khắc Huy](https://www.linkedin.com/in/nguyenkhachuy)
 - **GitHub**: [Nguyễn Khắc Huy](https://github.com/nkhachuy)
 
 Cảm ơn bạn đã ghé thăm hồ sơ của tôi!
