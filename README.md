@@ -16,7 +16,8 @@ Dưới đây là một số dự án mà tôi đã và đang thực hiện:
 - **[Website quản lý nhà hàng](#)**: Website Quản Lý Nhà Hàng cung cấp nền tảng toàn diện cho khách hàng và chủ nhà hàng. Khách hàng phải đăng ký hoặc đăng nhập để sử dụng các chức năng chính như đặt món và đặt bàn. Sau khi đăng nhập, khách hàng có thể duyệt qua menu của quán, lựa chọn đặt bàn, thêm, xóa, hoặc chỉnh sửa món ăn đã chọn, và tiến hành thanh toán trực tuyến một cách dễ dàng. Ngoài ra, khách hàng có thể xem đánh giá của những người dùng trước và trực tiếp để lại phản hồi cũng như đánh giá về chất lượng dịch vụ và món ăn. Hệ thống hỗ trợ cả khách hàng và nhà hàng trong việc tối ưu hóa trải nghiệm ăn uống, giúp tăng tính tương tác và cải thiện chất lượng dịch vụ.
 
 
-- **[Website bán điện thoại di động](#)**: Mô tả dự án và cách tôi đã áp dụng kiến thức vào thực tiễn.
+- **[Website bán điện thoại di động](#)**:
+- **[Ứng dụng quản lý khách sạn](#)**: 
 
 ## 🎓 Học vấn
 
